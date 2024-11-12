@@ -1,9 +1,7 @@
 /**
  * @file data.h
- * @brief Abstraction of memory read and write operations
+ * @brief Abstraction of data maniuplation functions.
  *
- * This header file provides an abstraction of reading and
- * writing to memory via function calls. 
  *
  * @author Esraa Khaled
  * @date june 6 2020

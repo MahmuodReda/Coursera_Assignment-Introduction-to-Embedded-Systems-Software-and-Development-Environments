@@ -1,10 +1,7 @@
 /**
  * @file data.c
- * @brief Abstraction of memory read and write operations
+ * @brief implementations of data maniuplation functions.
  *
- * This implementation file provides an abstraction of reading and
- * writing to memory via function calls. There is also a globally
- * allocated buffer array used for manipulation.
  *
  * @author Esraa khaled
  * @date June 6 2020

@@ -115,6 +115,7 @@ uint8_t * my_memmove(uint8_t * src, uint8_t * dst, size_t length);
  *
  * Takes two byte pointers (one source and one destination)
  * and a length of bytes to copy from the source location to the destination.
+ * This is done by: making a temp place to save src to prevent overlap
  *
  * @param src pointer to source location
  * @param dst pointer to destination
